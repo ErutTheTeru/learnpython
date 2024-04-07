@@ -1,4 +1,4 @@
-**Tại sao cần học Python**
+**Tại sao chúng ta nên học Python**
 ```ini
 [1] Data sai ần (Data Sicense) là cần có “Pai thần” (Python)
 
